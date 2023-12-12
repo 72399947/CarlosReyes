@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/colegio/static/css/main.87420c1a.css",
+    "main.js": "/colegio/static/js/main.4c4e8301.js",
+    "static/media/GreenGames.jpg": "/colegio/static/media/GreenGames.200954e2e6f4d938e21e.jpg",
+    "static/media/liderazgoPremios.jpg": "/colegio/static/media/liderazgoPremios.b0723624e77c9662e1b3.jpg",
+    "static/media/bootstrap-icons.woff?": "/colegio/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/colegio/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/escudoUnidadEducativa.jpg": "/colegio/static/media/escudoUnidadEducativa.6339967e8f9b624239ac.jpg",
+    "index.html": "/colegio/index.html",
+    "main.87420c1a.css.map": "/colegio/static/css/main.87420c1a.css.map",
+    "main.4c4e8301.js.map": "/colegio/static/js/main.4c4e8301.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87420c1a.css",
+    "static/js/main.4c4e8301.js"
+  ]
+}
